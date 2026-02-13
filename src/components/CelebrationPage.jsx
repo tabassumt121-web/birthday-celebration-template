@@ -29,22 +29,22 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
   // QNA Slides data
   const slides = [
     {
-      icon: "✨",
-      text: "It's Your Special Day Yeyey!",
+      icon: "🎀🌷",
+      text: "A Toast To The Finest Of The Lot. May Your Day Be As Radiant As Your Smile",
       type: "announcement",
     },
     {
-      icon: "✨",
-      text: "Do you wanna see what I made??",
+      icon: "⋆｡°✩ ❤️ ✩°｡⋆",
+      text: "Put My Heart Into This, I Did. You Ready To See It?",
       type: "question",
       options: [
-        { text: "Yes!", value: "yes" },
+        { text: "Yes", value: "yes" },
         { text: "No", value: "no" },
       ],
     },
     {
-      icon: "✨",
-      text: "Have a look at it, Madam Jiii",
+      icon: "🙇🏻‍♂️",
+      text: "Have A Proper Gander, Madam Ji",
       type: "announcement",
     },
   ];
@@ -302,13 +302,13 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
                     }`}
                     onClick={() => handleAnswer(option.value)}
                   >
-                    {option.text} {option.value === "yes" && "👆"}
+                    {option.text} {option.value === "yes"}
                   </button>
                 ))}
               </div>
             ) : (
               <button className="next-button" onClick={handleNext}>
-                {currentSlide < slides.length - 1 ? "Next" : "Let's Go! 🎉"}
+                {currentSlide < slides.length - 1 ? "Next" : "Step Lively"}
               </button>
             )}
           </div>
