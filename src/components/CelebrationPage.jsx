@@ -34,7 +34,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
       type: "announcement",
     },
     {
-      icon: "⋆｡°✩ ❤️ ✩°｡⋆",
+      icon: "⋆｡°✩ 💗 ✩°｡⋆",
       text: "Put My Heart Into This, I Did. You Ready To See It?",
       type: "question",
       options: [
@@ -44,7 +44,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
     },
     {
       icon: "🙇🏻‍♂️",
-      text: "Have A Proper Gander, Madam Ji",
+      text: "Allow Yourself A Moment To See What I've Kept For You",
       type: "announcement",
     },
   ];
@@ -389,7 +389,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
                   data-button="message"
                   onClick={() => handleButtonClick("message")}
                 >
-                  💌 Well, I Have a Message for You Madam Ji
+                  💌 Hast A Moment For A Word Or Two? 
                 </button>
               )}
             </div>
