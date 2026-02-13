@@ -155,7 +155,7 @@ function App() {
         </button>
         <MessageCard isActive={currentPage === 3} />
         <button className="page-nav-btn" onClick={() => goToPage(4)}>
-          📸 View Our Memories
+          📸 Take A Peek At Us
         </button>
       </div>
 
@@ -170,8 +170,8 @@ function App() {
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
-          <h2 className="final-message">💖 Forever Yours — [Your Name] 💖</h2>
-          <p className="final-subtitle">Your personalized closing message ✨</p>
+          <h2 className="final-message">💖 Always A Little Yours — [Aapka AARU] 💖</h2>
+          <p className="final-subtitle">A Small Pause In Time✨</p>
         </section>
       </div>
 
