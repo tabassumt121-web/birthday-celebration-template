@@ -17,8 +17,9 @@ function MessageCard({ isActive }) {
 
 TBH idk what should i write...Ya know you are such a cool thing to have around. I really enjoy YOU and everything's been fine so far and 
 also it's kinda cool ki hum kitne close aagaye hain... I like how you carry yourself, how you laugh til' you can't breath, REALLY ADORE THAT...
-idk how to explain, you have an ineffable energy, like bjjsdcsjkqdjnczx... There’s a quiet reverence I feel, I ADMIRE ... Looking forword to make many more
-memories with you... I apologize if i've ever hurt you , unintentional or whatever... Thank you for being here 
+idk how to explain, you have an ineffable energy, like bjjsdcsjkqdjnczx... There’s a quiet reverence I feel, I ADMIRE ... Looking forword to make many more  
+memories with you... I apologize if i've ever hurt you , unintentional or otherwise... Thank you for being here... Aap achi friend ho, kbhi muh suja leti ho 
+ya stupid act krti ho but but ACHI FRIEND HO... So yeah keep smiling 
 
 Happy Happyy Birthdayyyyyy 💝
 
