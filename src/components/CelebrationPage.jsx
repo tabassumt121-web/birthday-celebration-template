@@ -367,7 +367,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
                   data-button="decorate"
                   onClick={() => handleButtonClick("decorate")}
                 >
-                  🎨 Decorate
+                  Brighten This Space ⭐
                 </button>
               )}
 
@@ -378,7 +378,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
                   data-button="balloons"
                   onClick={() => handleButtonClick("balloons")}
                 >
-                  🎈 Fly the Balloons
+                  Whisper A Wish 🧚🏽‍♂️
                 </button>
               )}
 
