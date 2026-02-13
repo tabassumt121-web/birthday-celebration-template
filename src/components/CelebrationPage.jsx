@@ -332,9 +332,9 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
         <>
           {/* Buttons Section - At the TOP */}
           <div className="celebration-buttons">
-            <h2 className="celebration-title">Let's Celebrate! 🎉</h2>
+            <h2 className="celebration-title">Let's Celebrate 🛐</h2>
             <p className="celebration-subtitle">
-              Click the buttons to decorate
+              In Honor Of You
             </p>
 
             <div className="buttons-grid">
@@ -345,7 +345,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
                   data-button="lights"
                   onClick={() => handleButtonClick("lights")}
                 >
-                  💡 Turn On the Lights
+                  Into This Moment
                 </button>
               )}
 
