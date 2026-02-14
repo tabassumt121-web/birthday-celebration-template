@@ -23,7 +23,7 @@ ya stupid act krti ho but but ACHI FRIEND HO... So yeah keep smiling
 
 Happy Happyy Birthdayyyyyy 💝
 
-— Arham The Aaru;
+— Arham The Aaru`;
 
   // Handle page transitions
   useEffect(() => {
