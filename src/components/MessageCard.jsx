@@ -174,7 +174,7 @@ Happy Happyy Birthdayyyyyy 💝
         <div className="curtain-rod"></div>
 
         <div
-          className={curtain-wrapper ${`
+          className={`curtain-wrapper ${
             curtainsOpened ? "opened opening" : ""
           }`}
           onClick={handleOpenCurtains}
